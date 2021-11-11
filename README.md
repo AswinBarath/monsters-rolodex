@@ -4,7 +4,7 @@
 <img src="assets/Monsters Rolodex Cover Design.png" alt="Monsters Rolodex Cover Design" width=800px />
 </p>
 
-Monsters Rolodex is a fun and responsive Web App with reactive user data and Random Robo Images on a responsive web layout.
+Monsters Rolodex is a fun and responsive Web App with reactive user data and Random Monster Images on a responsive web layout.
 
 ---
 
